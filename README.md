@@ -1,5 +1,5 @@
 # SUPER-STORE-PROFIT
-<p>In this dashboard, we focus on the operational data from a superstore. Superstore is a small retail business. They produce technology products, furniture, and office supplies.
+<p>In this dashboard, we focus on the sample data from a superstore. Superstore is a small retail business. They produce technology products, furniture, and office supplies.
   
 The data set consists of sales detail, profit detail, quantity detail, etc. It contains over 9995 rows and 21 columns of data. This dashboard can help the business with decision-making.
 <p><h3>PROFIT DASHBORD </h3></p>

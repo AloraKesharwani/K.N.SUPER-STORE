@@ -4,7 +4,7 @@
 This is the interactive dashboard for users. This dashboard contains four buttons, and by clicking any chart or button, we may learn more about the data at that specific moment. Each button provides performance information for the corresponding Quater.
 
 <p><h3>DATA MODELLING </h3></p>
-<img src= >
+<img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/1496eccf-25f3-4596-9900-4c407f496bc >
 
 <p> The Orders table and the Details tables have a one-to-many relationship that is based on the filed OrderID. </p>
 

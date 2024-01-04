@@ -3,13 +3,10 @@
   
 This is the interactive dashboard for users. This dashboard contains four buttons, and by clicking any chart or button, we may learn more about the data at that specific moment. Each button provides performance information for the corresponding Quater.
 
-<p><h3>DATA MODELLING </h3></p>
-<img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/1496eccf-25f3-4596-9900-4c407f496bcd >
-
 <p> The Orders table and the Details tables have a one-to-many relationship that is based on the filed OrderID. </p>
 
 <p><h3>SALES DASHBORD </h3></p>
-<img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/74beb4be-76af-4178-8a9a-8e7ae7faee49">
+<img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/1496eccf-25f3-4596-9900-4c407f496bcd>
 <p>
   <b>1. Profit By Month:</b> 
   This graph provides an understanding of profit distribution per month so that comparisons between actual and predicted profit can be easily monitored. It also provides a clear understanding of financial performance and helps in identifying peak periods, fluctuations, and areas for improvement. This analysis facilitates timely decision-making, allowing businesses to optimize strategies and maximize profitability.

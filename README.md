@@ -28,4 +28,4 @@ This is the interactive dashboard for users. This dashboard contains four button
   Determining the top-performing state by analysing various metrics. By evaluating metrics such as total sales, customer acquisition, and profitability by state, businesses can identify the region contributing the most to overall success. This analysis guides strategic decisions, allowing businesses to focus resources, marketing efforts, and customer engagement strategies on the top-performing state for sustained growth and market dominance. Identifying and targeting top customers based on higher spending for special discounts and coupons is a strategic approach to cultivating preferred customer relationships.
 </p>
 
-<p>Jan 2024 – jan 2025 <p/>
+<p>Jan 2024 – Jan 2025 <p/>

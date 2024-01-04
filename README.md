@@ -1,11 +1,8 @@
 # SUPER-STORE-PROFIT
-<p>An eCommerce sales dashboard is a visual representation of key performance indicators (KPIs) and metrics related to the sales and performance of an online store. It provides a quick and accessible way for business owners analyze the performance of their eCommerce business.
+<p>In this dashboard, we focus on the operational data from a superstore. Superstore is a small retail business. They produce technology products, furniture, and office supplies.
   
-This is the interactive dashboard for users. This dashboard contains four buttons, and by clicking any chart or button, we may learn more about the data at that specific moment. Each button provides performance information for the corresponding Quater.
-
-<p> The Orders table and the Details tables have a one-to-many relationship that is based on the filed OrderID. </p>
-
-<p><h3>SALES DASHBORD </h3></p>
+The data set consists of sales detail, profit detail, quantity detail, etc. It contains over 9995 rows and 21 columns of data. This dashboard can help the business with decision-making.
+<p><h3>PROFIT DASHBORD </h3></p>
 <img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/1496eccf-25f3-4596-9900-4c407f496bcd>
 <p>
   <b>1. Profit By Month:</b> 

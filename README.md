@@ -23,14 +23,19 @@ Identify whether profits are consistently growing, declining, or remaining stabl
 
   Compare profits for each product to identify which products are the most profitable and contribute significantly to overall store profits.
 
-Identify products that are often purchased together. This information can be used to create cross-selling strategies.
+  Identify products that are often purchased together. This information can be used to create cross-selling strategies.
 
-Some products are in the growth phase, maturity, or decline phase, and adjust marketing and inventory strategies accordingly.
+  Some products are in the growth phase, maturity, or decline phase, and adjust marketing and inventory strategies accordingly.
 </p>
 <p>
-  <b>3. PAYMENT MODES:</b> 
-  Analysing the payment modes provides crucial insights into transaction preferences. By understanding which payment methods are most frequently used, businesses can optimise their payment processes and marketing strategies and potentially negotiate better terms with payment providers. This analysis aids in creating a seamless and customer-friendly payment experience while also addressing any potential issues or bottlenecks associated with specific payment modes.
-</p>
+  <b>3. Profit by Sub- Category and Region:</b> 
+  
+</p>The profit by subcategories and region provides a variety of filters. The users can also filter the visualisations in the dashboard by region and sub-categories. The dashboard is dynamic, and the filter will be applied to all the visualisations available in the matrix chart.
+
+These matrix charts can help the business optimise its profit by region and subcategories
+
+The profit matrix chart is a valuable visualisation that can provide an overall view of the subcategories of each region.
+
 <p>
   <b>4. QUANTITY BY CATEGORIES:</b> 
   Analysing quantity by subcategory reveals essential insights into product popularity. It helps identify best-selling subcategories, assess demand patterns, and optimise inventory management. This analysis empowers businesses to strategically allocate resources, enhance stock levels for high-demand items, and make marketing efforts to capitalise on popular product categories, ultimately improving overall sales performance and customer satisfaction. 

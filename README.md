@@ -5,8 +5,18 @@ The data set consists of sales detail, profit detail, quantity detail, etc. It c
 <p><h3>PROFIT DASHBORD </h3></p>
 <img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/1496eccf-25f3-4596-9900-4c407f496bcd>
 <p>
-  <b>1. Profit By Month:</b> 
-  This graph provides an understanding of profit distribution per month so that comparisons between actual and predicted profit can be easily monitored. It also provides a clear understanding of financial performance and helps in identifying peak periods, fluctuations, and areas for improvement. This analysis facilitates timely decision-making, allowing businesses to optimize strategies and maximize profitability.
+  <b>1. Profit By Year and Quarter:</b> 
+ 
+  The profit chart shows the overall view of profit in each quarter and year.
+  
+  Sum up the profits for each quarter to get the total profit for each year.
+  
+In 2018, profits seem to be increasing from Q1 to Q4, with Q4 being the most profitable quarter.
+In 2023, there is a slight dip in Q1, but profits increase again in Q2, Q3, and Q4.
+
+Analyse each quarter individually to understand the factors contributing to fluctuations in profits.
+
+Identify whether profits are consistently growing, declining, or remaining stable.
 </p>
 <p>
   <b>2. Profit By Subcategory:</b> 

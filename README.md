@@ -19,7 +19,7 @@ Analyse each quarter individually to understand the factors contributing to fluc
 Identify whether profits are consistently growing, declining, or remaining stable.
 </p>
 <p>
-  <b>2. PROFIT BY PRODUCT:</b> 
+  <b>2. PROFIT BY PRODUCTS:</b> 
 
   Compare profits for each product to identify which products are the most profitable and contribute significantly to overall store profits.
 
@@ -28,7 +28,7 @@ Identify whether profits are consistently growing, declining, or remaining stabl
   Some products are in the growth phase, maturity, or decline phase, and adjust marketing and inventory strategies accordingly.
 </p>
 <p>
-  <b>3. PROFIT BY SUB- CATEGORY AND REGION:</b> 
+  <b>3. PROFIT BY SUB- CATEGORY AND REGIONS:</b> 
   
 </p>The profit by subcategories and region provides a variety of filters. The users can also filter the visualisations in the dashboard by region and sub-categories. The dashboard is dynamic, and the filter will be applied to all the visualisations available in the matrix chart.
 

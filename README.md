@@ -1,6 +1,6 @@
 # SUPER-STORE-PROFIT
 <p>In this dashboard, we focus on the sample data from a superstore. Superstore is a small retail business. This dashboard provides a concise yet comprehensive overview of profit data.
-  
+  This dashboard, superstore managers can see the total profit, total sales, and the total discount of each region, they can also see details of each state by simply drilling down to the state view in slicer chart.
 The data set consists of sales detail, profit detail, quantity detail, etc. It contains over 9995 rows and 21 columns of data. This dashboard can help the business with decision-making.
 <p><h3>PROFIT DASHBORD </h3></p>
 <img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/1496eccf-25f3-4596-9900-4c407f496bcd>
@@ -19,8 +19,13 @@ Analyse each quarter individually to understand the factors contributing to fluc
 Identify whether profits are consistently growing, declining, or remaining stable.
 </p>
 <p>
-  <b>2. Profit By Subcategory:</b> 
-  Show the profit earned on each category of products and state the product's performance. It helps identify the best and least profitable categories, which helps businesses make decisions about optimizing pricing and allocation of resources efficiently so they can focus on lucrative product lines, enhance profitability, and make informed decisions for sustained success.
+  <b>2. Profit By Product:</b> 
+
+  Compare profits for each product to identify which products are the most profitable and contribute significantly to overall store profits.
+
+Identify products that are often purchased together. This information can be used to create cross-selling strategies.
+
+Some products are in the growth phase, maturity, or decline phase, and adjust marketing and inventory strategies accordingly.
 </p>
 <p>
   <b>3. PAYMENT MODES:</b> 

@@ -4,7 +4,7 @@
 The data set consists of sales detail, profit detail, quantity detail, etc. It contains over 9995 rows and 21 columns of data. This dashboard can help the business with decision-making.
 
   <p><h3>OVERVIEW</h3></p>
-<img src=>
+<img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/49b7b4f8-65d3-421a-a225-64483f8d3d31>
 
 <p><h3>PROFIT DASHBORD </h3></p>
 <img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/1496eccf-25f3-4596-9900-4c407f496bcd>

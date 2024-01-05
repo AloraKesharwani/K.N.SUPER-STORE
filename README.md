@@ -37,8 +37,9 @@ These matrix charts can help the business optimise its profit by region and subc
 The profit matrix chart is a valuable visualisation that can provide an overall view of the subcategories of each region.
 
 <p>
-  <b>4. QUANTITY BY CATEGORIES:</b> 
-  Analysing quantity by subcategory reveals essential insights into product popularity. It helps identify best-selling subcategories, assess demand patterns, and optimise inventory management. This analysis empowers businesses to strategically allocate resources, enhance stock levels for high-demand items, and make marketing efforts to capitalise on popular product categories, ultimately improving overall sales performance and customer satisfaction. 
+  <b>4. Profit by Category:</b> 
+  
+The profit by category chart gives managers the ability to have a wide range of information in just one chart, by drilling up they can have information about the overall profit of each product category and by drilling down they can find the most valuable products and the slow-mover ones. This can help production to put their resources into producing profitable goods and perhaps stop the production of goods with little to no profit
 </p>
 <p>
   <b>5. TOP STATES:</b> 

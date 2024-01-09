@@ -1,6 +1,6 @@
 # K.N. SUPER-STORE
-<p>In this dashboard, we focus on the sample data from a superstore. Superstore is a small retail business. This dashboard provides a concise yet comprehensive overview of profit data.
-  This dashboard, superstore managers can see the total profit, total sales, and the total discount of each region, they can also see details of each state by simply drilling down to the state view in slicer chart.
+<p>In this dashboard, we focus on the sample data from a superstore. Superstore is a small retail business and provides a concise yet comprehensive overview of profit data.
+  Superstore managers can see the total profit, total sales, and the total discount of each region, they can also see details of each state by simply drilling down to the state view in slicer chart.
 The data set consists of sales detail, profit detail, quantity detail, etc. It contains over 9995 rows and 21 columns of data. This dashboard can help the business with decision-making.
 
   <p><h3>OVERVIEW</h3></p>

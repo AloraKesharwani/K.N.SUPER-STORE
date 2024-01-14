@@ -23,7 +23,7 @@ Analyse each quarter individually to understand the factors contributing to fluc
   <b>3. PROFIT BY SUB- CATEGORY AND REGIONS:</b> 
   
 </p>The profit by subcategories and region provides a variety of filters. The users can also filter the visualisations in the dashboard by region and sub-categories. The dashboard is dynamic, and the filter will be applied to all the visualisations available in the matrix chart.These matrix charts can help the business optimise its profit by region and subcategories.The profit matrix chart is a valuable visualisation that can provide an overall view of the subcategories of each region.
-
+</p>
 <p>
   <b>4. PROFIT BY CATEGORY:</b> 
   
